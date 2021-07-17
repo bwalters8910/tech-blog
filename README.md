@@ -19,7 +19,7 @@ Here is the link to the Github repository where the repo can be cloned (https://
 
 To use this app, simply visit the deployed site, create an account, and start posting.
 
-![screenshot](public/assets/images/screenshot.PNG)
+![screenshot](public/images/screenshot.PNG)
 
 ## License
 
